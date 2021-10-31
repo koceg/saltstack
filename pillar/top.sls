@@ -1,3 +1,3 @@
-dev:
+qa:
   'slave':
     - git_data
