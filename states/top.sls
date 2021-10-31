@@ -1,0 +1,3 @@
+dev:
+  'slave':
+    - motd
