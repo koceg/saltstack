@@ -1,3 +1,3 @@
-qa:
+dev:
   '*':
     - git_data

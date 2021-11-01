@@ -1,3 +1,3 @@
 git:
-  branch: qa
-  url: https://example.com/qa
+  branch: dev
+  url: https://example.com/dev
