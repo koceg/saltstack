@@ -1,3 +1,3 @@
 qa:
-  'slave':
+  '*':
     - motd
