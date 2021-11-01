@@ -1,3 +1,3 @@
-dev:
-  'slave':
+qa:
+  '*':
     - motd
